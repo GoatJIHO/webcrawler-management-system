@@ -1,5 +1,9 @@
 django/db.sqlite3
 django/manage.py
+django/backend/__pycache__/
+django/crawler_application/__pycache__/
+django/crawler_application/migrations/
+
 
 
 # Dependency directories
