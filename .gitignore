@@ -1,0 +1,58 @@
+django/db.sqlite3
+django/manage.py
+
+
+# Dependency directories
+react/node_modules/
+
+# Build files
+react/build/
+react/dist/
+
+# Environment configuration files
+.react/env
+
+# IDE and editor specific files
+.react/vscode/
+.react/idea/
+
+# Log files
+react/*.log
+
+# Compiled files
+react/*.o
+react/*.out
+react/*.obj
+
+# Cache files
+react/*.cache/
+react/.cache/
+
+# Yarn integrity file
+react/.yarn-integrity
+
+# Editor configuration
+react/.editorconfig
+
+# macOS
+react/.DS_Store
+
+# Windows
+react/Thumbs.db
+react/Desktop.ini
+
+# npm
+react/*.npm
+react/*.log
+
+# Tests
+react/coverage/
+
+# Local development files
+react/.env.local
+react/.env.development.local
+react/.env.test.local
+react/.env.production.local
+
+react/package-lock.json
+react/package.json
